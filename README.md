@@ -9,7 +9,7 @@
 
 I am passionate about the world of DevOps and cloud engineering, with a strong focus on automation, infrastructure as code, and building reliable and scalable environments. I enjoy designing CI/CD pipelines, containerized solutions, and cloud architectures that are efficient, secure, and production-ready.<br><br>
 
-🔧 Technologies I use:<br><br>
+🔧 Technologies I use:<br>
 
 Infrastructure as Code: Terraform<br>
 Cloud: Azure<br>
@@ -18,7 +18,7 @@ Version Control: Git<br>
 CI/CD: GitHub Actions, Azure DevOps<br>
 Scripting & Development: Java, TypeScript<br><br>
 
-🌱 Currently learning:<br><br>
+🌱 Currently learning:<br>
 
 Container orchestration (Kubernetes, etc.)<br>
 Advanced cloud architecture and security in Azure<br>
