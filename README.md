@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About me**
 
 
-✨ DevOps Engineer | Passionate about automation, cloud and scalable infrastructure ✨<br><br>
+✨ DevOps Engineer | Passionate about automation, cloud and scalable infrastructure ✨<br>
 
 I am passionate about the world of DevOps and cloud engineering, with a strong focus on automation, infrastructure as code, and building reliable and scalable environments. I enjoy designing CI/CD pipelines, containerized solutions, and cloud architectures that are efficient, secure, and production-ready.<br><br>
 
