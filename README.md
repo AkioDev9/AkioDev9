@@ -5,7 +5,26 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About me**
 
 
-✨ Full Stack Developer | Passionate about software, hardware and technology ✨<br><br>I am passionate about the world of programming, especially the frontend and backend, with a strong focus on creating robust and scalable applications. I love exploring new technologies and tools, especially in the fields of Java, Spring Boot, TypeScript and application development with C++ and C#.<br><br>🔧 Technologies I use:<br><br>Languages: Java, TypeScript , C++, C#<br>Frameworks and Libraries: Spring Boot, React, Angular <br>Databases: PostgreSQL, SQL Server<br>Tools: Docker, Git<br><br>🌱 Currently learning:<br><br>More frameworks for frontend (React, Vue.js, etc.) and backend (NestJS, Express, etc.)<br>Cloud development (AWS, Azure, Google Cloud, etc.)<br><br>I love collaborating on projects that allow me to continue learning and contribute to the world of software. If you have an idea, an interesting project or just want to exchange development knowledge, I am open to new opportunities!
+✨ DevOps Engineer | Passionate about automation, cloud and scalable infrastructure ✨<br><br>
+
+I am passionate about the world of DevOps and cloud engineering, with a strong focus on automation, infrastructure as code, and building reliable and scalable environments. I enjoy designing CI/CD pipelines, containerized solutions, and cloud architectures that are efficient, secure, and production-ready.<br><br>
+
+🔧 Technologies I use:<br><br>
+
+Infrastructure as Code: Terraform<br>
+Cloud: Azure<br>
+Containers: Docker<br>
+Version Control: Git<br>
+CI/CD: GitHub Actions, Azure DevOps<br>
+Scripting & Development: Java, TypeScript<br><br>
+
+🌱 Currently learning:<br><br>
+
+Container orchestration (Kubernetes, etc.)<br>
+Advanced cloud architecture and security in Azure<br>
+Monitoring, observability and DevSecOps practices<br><br>
+
+I love collaborating on projects that involve automation, cloud infrastructure, and continuous delivery. If you have an idea, an interesting project, or just want to exchange knowledge about DevOps and cloud technologies, I am open to new opportunities!
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
